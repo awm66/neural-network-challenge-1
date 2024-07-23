@@ -22,11 +22,11 @@ The approach consisted of:
 
 Model Structure
 
-<img src="model_structure.png" width="1638" height="454">
+<img src="model_structure.png" width="819" height="227">
 
 Balanced Accuracy Score
 
-<img src="balanced_accuracy_score.png" width="1068" height="360">
+<img src="balanced_accuracy_score.png" width="534" height="180">
 
 
 ## Plagerism Statement
