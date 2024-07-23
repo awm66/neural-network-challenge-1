@@ -18,7 +18,7 @@ The approach consisted of:
 7) Evaluate the model using test data.
 8) Save and export the model.
 9) Reload the model.
-10)Make predictions.
+10) Make predictions.
 
 Model Structure:
 
