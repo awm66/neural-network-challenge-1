@@ -21,10 +21,12 @@ The approach consisted of:
 10)Make predictions.
 
 Model Structure
-<img src="model_structure.png" width="500" height="300">
+
+<img src="model_structure.png" width="1638" height="454">
 
 Balanced Accuracy Score
-<img src="balanced_accuracy_score.png" width="500" height="300">
+
+<img src="balanced_accuracy_score.png" width="1068" height="360">
 
 
 ## Plagerism Statement
