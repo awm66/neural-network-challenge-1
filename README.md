@@ -3,7 +3,7 @@ Week 18 Challenge
 
 ## Summary
 
-This application analyzes student loan data and creates a model to predict loan repayment. The neural network package utilized was TensorFlow with Keras.
+This application analyzes student loan data and creates a model to predict loan repayment. The neural network package utilized was TensorFlow with Keras. The model achieved a 75% balanced accuracy score with consistent precision and recall for both majority and minority classes.
 
 ## Approach
 
